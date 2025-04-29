@@ -1,0 +1,7 @@
+Hello is not a valid integer.
+Fibonacci is too large.
+Fibonacci = 3
+Fibonacci = 34
+Example is not a valid integer.
+Number is negative.
+7.5 is not a valid integer.
